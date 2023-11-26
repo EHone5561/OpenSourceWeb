@@ -11,26 +11,26 @@
 # 전달 사항 수정
 
 ## 브랜치 사용 관련 안내
-함부로 마스터 브랜치에 push하지 말 것
-$git branch (로컬 브랜치명)
-$git checkout (branch)
-$git push origin (master가 아닌 자신의 로컬 브랜치명)
-다음을 통해 로컬 브랜치째로 업로드 할 것
+* 함부로 마스터 브랜치에 push하지 말 것
+* $git branch (로컬 브랜치명)
+* $git checkout (branch)
+* $git push origin (master가 아닌 자신의 로컬 브랜치명)
+* 다음을 통해 로컬 브랜치째로 업로드 할 것
 
 협의를 통해 master branch에 merge 할 것
 
 ## 디자인
 
-사진 삽입 여부와 CSS 사용은 자유
-각자의 개성이 들어나는 
+* 사진 삽입 여부와 CSS 사용은 자유
+* 각자의 개성이 들어나면 좋음 
 
 ## 파일명 통일 (해당 파일들은 OpenSourceProject 파일안에 들어있음
 
 OpenSrouceProject.html
-git1.html
-git2.html
-git3.html
-MarkDown.html
+* git1.html
+* git2.html
+* git3.html
+* MarkDown.html
 
 
 
@@ -42,5 +42,5 @@ source / git1_src, git2_src, git3_src, MarkDown_src
 
 OpenSourceProject/(html 파일 및 소스)
 
-#u pdate1127 브랜치에 프로젝트 파일을 양식에 맞게 정리해둘테니 참고할 것
+# update2 브랜치에 프로젝트 파일을 양식에 맞게 정리해둘테니 참고할 것 (빈 파일은 원격저장소에 올라오지 않는 것을 확인)
 
