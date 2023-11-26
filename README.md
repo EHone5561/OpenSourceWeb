@@ -8,9 +8,9 @@
   윤태원:git3.html
 
 
-#전달 사항 수정
+# 전달 사항 수정
 
-##브랜치 사용 관련 안내
+## 브랜치 사용 관련 안내
 함부로 마스터 브랜치에 push하지 말 것
 $git branch (로컬 브랜치명)
 $git checkout (branch)
@@ -19,10 +19,10 @@ $git push origin (master가 아닌 자신의 로컬 브랜치명)
 
 협의를 통해 master branch에 merge 할 것
 
-##디자인
+## 디자인
 사진 삽입 여부와 CSS 사용은 자유
 각자의 개성이 들어나는 
-##파일명 통일 (해당 파일들은 OpenSourceProject 파일안에 들어있음
+## 파일명 통일 (해당 파일들은 OpenSourceProject 파일안에 들어있음
                               >  git1.html
  OpenSrouceProject.html       >  git2.html
                               >  git3.html
@@ -30,15 +30,15 @@ $git push origin (master가 아닌 자신의 로컬 브랜치명)
 
 
 
-##소스 파일명 통일 (src 경로명도 이에 맞게 수정할 것)
+## 소스 파일명 통일 (src 경로명도 이에 맞게 수정할 것)
        /git1_src
 source /git2_src
        /git3_src
        /MarkDown_src
 
-##경로
+## 경로
 
 OpenSourceProject/(html 파일 및 소스)
 
-#update1127 브랜치에 프로젝트 파일을 양식에 맞게 정리해둘테니 참고할 것
+#u pdate1127 브랜치에 프로젝트 파일을 양식에 맞게 정리해둘테니 참고할 것
 
