@@ -5,4 +5,4 @@
   이찬영:git_2.html
   김도현:오픈소스 SW기초 Github 프로젝트 (마크다운).html
   전창현
-  윤태원
+  윤태원:git3.html
